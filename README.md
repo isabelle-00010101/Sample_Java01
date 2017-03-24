@@ -33,4 +33,4 @@ JOptionPane.showMessageDialog(null, "ERROR! Enter a valid age.");
 location = JOptionPane.showInputDialog("In which country do you reside?");
 
 JOptionPane.showMessageDialog(null, "Hello, " + name ".\nYou are currently " + age + " years old."
-                              + "\nYou live in " + location.)
+                              + "\nYou live in " + location.);
